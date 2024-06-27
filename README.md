@@ -1,3 +1,3 @@
 # my-first-repository
 <br>
-author -namrata rana
+author -namrata (my repository)
